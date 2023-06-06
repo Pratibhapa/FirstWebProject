@@ -1,0 +1,154 @@
+.img-responsive {
+  width: 100%;
+}
+
+/* NAVBAR */
+.navbar .navbar-collapse {
+  justify-content: end;
+}
+
+.navbar .navbar-brand {
+  font-weight: bold;
+  color: orange;
+}
+
+/* SLIDER */
+.slider-image h3 {
+  color: orange;
+}
+.slider-image h4 {
+  color: orange;
+}
+
+.slider-image p {
+  color: orange;
+}
+
+.slider-image .carousel-caption {
+  right: 35%;
+  left: 35%;
+  background: black;
+  padding: 0%;
+}
+
+/* ABOUT */
+.about {
+  padding: 50px 0;
+}
+
+/* SERVICES */
+.service {
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 20px;
+}
+.service img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+
+.service_item {
+  position: relative;
+  margin-bottom: 10px;
+}
+
+.service_item .text {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 23px 0px;
+  background: #313131;
+}
+
+.service_item .text h4 {
+  margin: 0;
+  text-align: center;
+  color: orange;
+}
+
+/* WHY US */
+.whyus img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+.whyus_item img {
+  width: 88px;
+  height: 80px;
+}
+.whyus {
+  padding-top: 60px;
+}
+
+/* TESTIMONIALS */
+.testimonial {
+  padding-top: 80px;
+}
+.testimonial_item img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 26px;
+}
+
+/* PORTFOLIO */
+.portfolio {
+  padding-top: 80px;
+  padding-bottom: 60px;
+}
+.portfolio_item img {
+  width: 200px;
+  height: 148px;
+}
+
+/* ANALYSIS */
+.analysis {
+  padding-top: 80px;
+  padding-bottom: 60px;
+}
+
+/* FOOTER */
+.footer {
+  padding-top: 30px;
+  background-color: black;
+  text-align: center;
+  color: grey;
+  margin-top: 50px;
+}
+
+/* ABOUT PAGE */
+/* FIREFLY */
+.firefly h1 {
+  margin-left: 40%;
+  margin-top: 20px;
+}
+.firefly p {
+  margin-top: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: rgb(248, 242, 242);
+}
+.company {
+  padding-top: 20px;
+}
+.company_item img {
+  width: 160px;
+  height: 140px;
+}
+
+/* PROGRESS BAR  */
+.progressbar {
+  padding: 20px 10px;
+}
+.progress {
+  padding: 3px;
+  color: orange;
+}
+
+
+/* FORM */
+.form {
+  margin-left: 30%;
+}
